@@ -1,0 +1,161 @@
+
+Results for /home/devuser/data/submissions/0001 Towards RobustOptimal Learning of Learning/submission1.txt
+----------------------------------------------------------------------------------------------------------
+Recall rates:
+
+SHARK: 14.2857142857%
+DOL: 59.364548495%
+NoF: 62.2%
+LAG: 69.9356913183%
+ALB: 94.0669856459%
+YFT: 57.3221757322%
+OTHER: 41.684434968%
+BET: 2.81690140845%
+
+NoFish: 62.2%
+Fish: 95.6636221509%
+
+Results for /home/devuser/data/submissions/0002 Liu/stg2_fish20XX+fish3000_partly3.csv
+--------------------------------------------------------------------------------------
+Recall rates:
+
+SHARK: 16.2337662338%
+DOL: 53.5117056856%
+NoF: 84.2%
+LAG: 47.7491961415%
+ALB: 91.4832535885%
+YFT: 39.4235239424%
+OTHER: 39.1257995736%
+BET: 4.92957746479%
+
+NoFish: 84.2%
+Fish: 91.3437011438%
+
+Results for /home/devuser/data/submissions/0003 clsfishbetter/nn_avg_test_stg1_2.csv
+------------------------------------------------------------------------------------
+Recall rates:
+
+SHARK: 13.6363636364%
+DOL: 56.856187291%
+NoF: 76.4%
+LAG: 34.2443729904%
+ALB: 88.6124401914%
+YFT: 43.6541143654%
+OTHER: 24.5202558635%
+BET: 2.67605633803%
+
+NoFish: 76.4%
+Fish: 88.9986011684%
+
+Results for /home/devuser/data/submissions/0004 Chicken of the Sea/e1.csv
+-------------------------------------------------------------------------
+Recall rates:
+
+SHARK: 13.6363636364%
+DOL: 34.1137123746%
+NoF: 81.3%
+LAG: 48.0707395498%
+ALB: 85.1355661882%
+YFT: 35.7508135751%
+OTHER: 33.368869936%
+BET: 1.40845070423%
+
+NoFish: 81.3%
+Fish: 87.2130338188%
+
+Results for /home/devuser/data/submissions/0005 x_enhanced_AI/Final_01.csv
+--------------------------------------------------------------------------
+Recall rates:
+
+SHARK: 16.8831168831%
+DOL: 2.84280936455%
+NoF: 44.4%
+LAG: 7.39549839228%
+ALB: 56.6985645933%
+YFT: 23.8493723849%
+OTHER: 8.74200426439%
+BET: 1.33802816901%
+
+NoFish: 44.4%
+Fish: 65.0868098412%
+
+Results for /home/devuser/data/submissions/0006 SYSU_/blend_resnet101_ggnet_resnet152_res101test_nof099001_stg12_0412_1.csv
+---------------------------------------------------------------------------------------------------------------------------
+Recall rates:
+
+SHARK: 25.974025974%
+DOL: 54.347826087%
+NoF: 84.5%
+LAG: 70.2572347267%
+ALB: 92.6794258373%
+YFT: 31.659693166%
+OTHER: 39.4456289979%
+BET: 1.9014084507%
+
+NoFish: 84.5%
+Fish: 94.5527853205%
+
+Results for /home/devuser/data/submissions/0007 Alpha Fish/pred.csv
+-------------------------------------------------------------------
+Recall rates:
+
+SHARK: 18.1818181818%
+DOL: 39.7993311037%
+NoF: 78.4%
+LAG: 66.7202572347%
+ALB: 85.6140350877%
+YFT: 44.9558344956%
+OTHER: 39.2324093817%
+BET: 10.0%
+
+NoFish: 78.4%
+Fish: 88.5871801201%
+
+Results for /home/devuser/data/submissions/0008 bestfitting/subm_04101812_aggressive_knn.csv
+--------------------------------------------------------------------------------------------
+Recall rates:
+
+SHARK: 12.987012987%
+DOL: 59.5317725753%
+NoF: 84.9%
+LAG: 57.5562700965%
+ALB: 79.7448165869%
+YFT: 41.190144119%
+OTHER: 47.4413646055%
+BET: 4.22535211268%
+
+NoFish: 84.9%
+Fish: 92.3228832387%
+
+Results for /home/devuser/data/submissions/0009 Felix Yu/model_2_ensemble_2017-04-08-15-15_final.csv
+----------------------------------------------------------------------------------------------------
+Recall rates:
+
+SHARK: 22.7272727273%
+DOL: 41.9732441472%
+NoF: 59.7%
+LAG: 53.8585209003%
+ALB: 85.5661881978%
+YFT: 42.8637842864%
+OTHER: 26.6524520256%
+BET: 4.85915492958%
+
+NoFish: 59.7%
+Fish: 90.2493211553%
+
+Results for /home/devuser/data/submissions/0010 Zsolt Vadaszi/submit_stg1_2.txt
+-------------------------------------------------------------------------------
+Recall rates:
+
+SHARK: 19.4805194805%
+DOL: 55.1839464883%
+NoF: 75.8%
+LAG: 52.4115755627%
+ALB: 81.658692185%
+YFT: 33.240353324%
+OTHER: 43.9232409382%
+BET: 12.7464788732%
+
+NoFish: 75.8%
+Fish: 90.1917222085%
+DONE
