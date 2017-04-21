@@ -1,0 +1,131 @@
+
+Results for /home/devuser/data/submissions/0001 Towards RobustOptimal Learning of Learning/submission1.txt
+----------------------------------------------------------------------------------------------------------
+category   count labels   true positive   false negative   mislabeled as
+
+   SHARK            154              22                1   ALB: 80, DOL: 7, NoF: 19, OTHER: 12, YFT: 14
+     DOL            598             355               63   ALB: 109, BET: 1, LAG: 1, NoF: 43, OTHER: 74, YFT: 15
+     NoF           1000             622              527   ALB: 292, DOL: 30, LAG: 16, OTHER: 27, YFT: 13
+     LAG            622             435               58   ALB: 67, NoF: 113, YFT: 7
+     ALB           6270            5898             2809   BET: 10, DOL: 6, LAG: 15, NoF: 104, OTHER: 83, SHARK: 1, YFT: 153
+     YFT           2151            1233              439   ALB: 834, BET: 3, DOL: 1, LAG: 4, NoF: 33, OTHER: 43
+   OTHER            938             391              246   ALB: 263, DOL: 18, LAG: 18, NoF: 204, YFT: 44
+     BET           1420              40               14   ALB: 1164, DOL: 1, LAG: 4, NoF: 11, OTHER: 7, YFT: 193
+
+Results for /home/devuser/data/submissions/0002 Liu/stg2_fish20XX+fish3000_partly3.csv
+--------------------------------------------------------------------------------------
+category   count labels   true positive   false negative   mislabeled as
+
+   SHARK            154              25               15   ALB: 73, DOL: 3, NoF: 29, OTHER: 16, YFT: 8
+     DOL            598             320               24   ALB: 142, BET: 12, NoF: 65, OTHER: 40, SHARK: 2, YFT: 17
+     NoF           1000             842             1052   ALB: 125, BET: 2, DOL: 6, LAG: 2, OTHER: 21, YFT: 2
+     LAG            622             297               13   ALB: 90, BET: 23, DOL: 1, NoF: 206, OTHER: 4, YFT: 1
+     ALB           6270            5736             3053   BET: 39, DOL: 1, LAG: 6, NoF: 370, OTHER: 52, SHARK: 4, YFT: 62
+     YFT           2151             848              190   ALB: 1159, BET: 9, DOL: 3, NoF: 64, OTHER: 61, SHARK: 7
+   OTHER            938             367              210   ALB: 245, BET: 6, DOL: 6, LAG: 3, NoF: 287, SHARK: 2, YFT: 22
+     BET           1420              70               91   ALB: 1219, DOL: 4, LAG: 2, NoF: 31, OTHER: 16, YFT: 78
+
+Results for /home/devuser/data/submissions/0003 clsfishbetter/nn_avg_test_stg1_2.csv
+------------------------------------------------------------------------------------
+category   count labels   true positive   false negative   mislabeled as
+
+   SHARK            154              21               17   ALB: 62, NoF: 47, OTHER: 20, YFT: 4
+     DOL            598             340                4   ALB: 70, BET: 9, NoF: 93, OTHER: 69, YFT: 17
+     NoF           1000             764             1337   ALB: 222, DOL: 1, OTHER: 6, YFT: 7
+     LAG            622             213                3   ALB: 192, NoF: 214, SHARK: 2, YFT: 1
+     ALB           6270            5556             3297   BET: 6, LAG: 2, NoF: 572, OTHER: 102, SHARK: 2, YFT: 30
+     YFT           2151             939              125   ALB: 1055, BET: 7, DOL: 2, NoF: 91, OTHER: 48, SHARK: 9
+   OTHER            938             230              247   ALB: 417, DOL: 1, LAG: 1, NoF: 276, SHARK: 4, YFT: 9
+     BET           1420              38               22   ALB: 1279, NoF: 44, OTHER: 2, YFT: 57
+
+Results for /home/devuser/data/submissions/0004 Chicken of the Sea/e1.csv
+-------------------------------------------------------------------------
+category   count labels   true positive   false negative   mislabeled as
+
+   SHARK            154              21               12   ALB: 86, NoF: 23, OTHER: 10, YFT: 14
+     DOL            598             204                8   ALB: 207, NoF: 122, OTHER: 26, SHARK: 5, YFT: 34
+     NoF           1000             813             1554   ALB: 182, LAG: 1, OTHER: 3, YFT: 1
+     LAG            622             299                4   ALB: 75, NoF: 248
+     ALB           6270            5338             3267   BET: 34, DOL: 1, LAG: 2, NoF: 708, OTHER: 132, SHARK: 2, YFT: 53
+     YFT           2151             769              201   ALB: 1164, BET: 1, DOL: 7, NoF: 88, OTHER: 117, SHARK: 5
+   OTHER            938             313              295   ALB: 288, LAG: 1, NoF: 325, YFT: 11
+     BET           1420              20               35   ALB: 1265, NoF: 40, OTHER: 7, YFT: 88
+
+Results for /home/devuser/data/submissions/0005 x_enhanced_AI/Final_01.csv
+--------------------------------------------------------------------------
+category   count labels   true positive   false negative   mislabeled as
+
+   SHARK            154              26                2   ALB: 76, DOL: 1, NoF: 27, OTHER: 11, YFT: 13
+     DOL            598              17                4   ALB: 325, BET: 54, NoF: 183, OTHER: 1, YFT: 18
+     NoF           1000             444             4243   ALB: 489, BET: 3, LAG: 2, OTHER: 5, YFT: 57
+     LAG            622              46                4   ALB: 344, NoF: 169, OTHER: 3, YFT: 60
+     ALB           6270            3555             3191   BET: 43, DOL: 1, NoF: 2414, OTHER: 7, SHARK: 1, YFT: 249
+     YFT           2151             513              815   ALB: 843, BET: 52, DOL: 1, NoF: 732, OTHER: 9, SHARK: 1
+   OTHER            938              82               38   ALB: 325, BET: 2, DOL: 1, NoF: 459, YFT: 69
+     BET           1420              19              154   ALB: 789, LAG: 2, NoF: 259, OTHER: 2, YFT: 349
+
+Results for /home/devuser/data/submissions/0006 SYSU_/blend_resnet101_ggnet_resnet152_res101test_nof099001_stg12_0412_1.csv
+---------------------------------------------------------------------------------------------------------------------------
+category   count labels   true positive   false negative   mislabeled as
+
+   SHARK            154              40               41   ALB: 72, NoF: 26, OTHER: 5, YFT: 11
+     DOL            598             325               19   ALB: 178, LAG: 1, NoF: 43, OTHER: 25, SHARK: 11, YFT: 15
+     NoF           1000             845              662   ALB: 129, BET: 1, DOL: 4, LAG: 10, OTHER: 8, SHARK: 1, YFT: 2
+     LAG            622             437              174   ALB: 67, NoF: 115, OTHER: 1, YFT: 2
+     ALB           6270            5811             3437   BET: 5, DOL: 8, LAG: 112, NoF: 209, OTHER: 46, SHARK: 7, YFT: 72
+     YFT           2151             681              166   ALB: 1372, BET: 6, DOL: 4, LAG: 23, NoF: 36, OTHER: 17, SHARK: 12
+   OTHER            938             370              106   ALB: 326, DOL: 3, LAG: 17, NoF: 201, SHARK: 8, YFT: 13
+     BET           1420              27               12   ALB: 1293, LAG: 11, NoF: 32, OTHER: 4, SHARK: 2, YFT: 51
+
+Results for /home/devuser/data/submissions/0007 Alpha Fish/pred.csv
+-------------------------------------------------------------------
+category   count labels   true positive   false negative   mislabeled as
+
+   SHARK            154              28               72   ALB: 59, BET: 1, NoF: 36, OTHER: 13, YFT: 17
+     DOL            598             238                5   ALB: 157, BET: 5, LAG: 1, NoF: 111, OTHER: 43, SHARK: 8, YFT: 35
+     NoF           1000             784             1387   ALB: 119, BET: 1, DOL: 1, LAG: 13, OTHER: 45, SHARK: 14, YFT: 23
+     LAG            622             415               66   ALB: 16, NoF: 188, OTHER: 3
+     ALB           6270            5368             2642   BET: 40, DOL: 2, LAG: 30, NoF: 617, OTHER: 120, SHARK: 24, YFT: 69
+     YFT           2151             967              317   ALB: 1017, BET: 6, DOL: 1, LAG: 4, NoF: 82, OTHER: 56, SHARK: 18
+   OTHER            938             368              301   ALB: 211, DOL: 1, LAG: 11, NoF: 311, SHARK: 7, YFT: 29
+     BET           1420             142               53   ALB: 1063, LAG: 7, NoF: 42, OTHER: 21, SHARK: 1, YFT: 144
+
+Results for /home/devuser/data/submissions/0008 bestfitting/subm_04101812_aggressive_knn.csv
+--------------------------------------------------------------------------------------------
+category   count labels   true positive   false negative   mislabeled as
+
+   SHARK            154              20                1   ALB: 48, LAG: 1, NoF: 27, OTHER: 42, YFT: 16
+     DOL            598             356               14   ALB: 59, BET: 5, NoF: 52, OTHER: 92, YFT: 34
+     NoF           1000             849              933   ALB: 115, BET: 1, DOL: 6, LAG: 3, OTHER: 26
+     LAG            622             358               21   ALB: 53, BET: 2, DOL: 1, NoF: 204, OTHER: 3, YFT: 1
+     ALB           6270            5000             2392   BET: 7, DOL: 4, LAG: 10, NoF: 347, OTHER: 832, SHARK: 1, YFT: 69
+     YFT           2151             886              236   ALB: 832, BET: 18, LAG: 1, NoF: 24, OTHER: 390
+   OTHER            938             445             1547   ALB: 205, BET: 2, DOL: 3, LAG: 4, NoF: 259, YFT: 20
+     BET           1420              60               35   ALB: 1080, LAG: 2, NoF: 20, OTHER: 162, YFT: 96
+
+Results for /home/devuser/data/submissions/0009 Felix Yu/model_2_ensemble_2017-04-08-15-15_final.csv
+----------------------------------------------------------------------------------------------------
+category   count labels   true positive   false negative   mislabeled as
+
+   SHARK            154              35              179   ALB: 94, BET: 1, DOL: 4, LAG: 1, NoF: 10, OTHER: 6, YFT: 3
+     DOL            598             251               91   ALB: 233, LAG: 3, NoF: 60, OTHER: 42, SHARK: 8, YFT: 1
+     NoF           1000             597             1185   ALB: 389, BET: 1, DOL: 1, LAG: 5, SHARK: 1, YFT: 6
+     LAG            622             335               53   ALB: 91, BET: 4, DOL: 1, NoF: 187, OTHER: 3, YFT: 1
+     ALB           6270            5365             3335   BET: 4, DOL: 74, LAG: 19, NoF: 585, OTHER: 86, SHARK: 67, YFT: 70
+     YFT           2151             922              272   ALB: 1007, BET: 11, DOL: 6, LAG: 5, NoF: 78, OTHER: 46, SHARK: 76
+   OTHER            938             250              191   ALB: 402, BET: 2, DOL: 3, LAG: 18, NoF: 233, SHARK: 17, YFT: 13
+     BET           1420              69               23   ALB: 1119, DOL: 2, LAG: 2, NoF: 32, OTHER: 8, SHARK: 10, YFT: 178
+
+Results for /home/devuser/data/submissions/0010 Zsolt Vadaszi/submit_stg1_2.txt
+-------------------------------------------------------------------------------
+category   count labels   true positive   false negative   mislabeled as
+
+   SHARK            154              30               37   ALB: 59, BET: 3, NoF: 30, OTHER: 23, YFT: 9
+     DOL            598             330               87   ALB: 86, BET: 3, LAG: 1, NoF: 82, OTHER: 40, SHARK: 7, YFT: 49
+     NoF           1000             758             1192   ALB: 157, BET: 15, DOL: 7, LAG: 16, OTHER: 38, SHARK: 4, YFT: 5
+     LAG            622             326              154   ALB: 84, BET: 5, NoF: 184, OTHER: 20, YFT: 3
+     ALB           6270            5120             2646   BET: 88, DOL: 44, LAG: 98, NoF: 562, OTHER: 254, SHARK: 7, YFT: 97
+     YFT           2151             715              427   ALB: 1129, BET: 63, DOL: 18, LAG: 10, NoF: 48, OTHER: 156, SHARK: 12
+   OTHER            938             412              556   ALB: 219, BET: 5, DOL: 15, LAG: 12, NoF: 262, SHARK: 2, YFT: 11
+     BET           1420             181              182   ALB: 912, DOL: 3, LAG: 17, NoF: 24, OTHER: 25, SHARK: 5, YFT: 253
+DONE
