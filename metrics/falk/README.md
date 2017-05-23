@@ -6,4 +6,4 @@ This is a simple ****true positive* count for every category.
 A positive is currently defined as the category with the 
 highest probability (no threshold applied.)
 
-Please advice how to improve.
+Please advise how to improve.
