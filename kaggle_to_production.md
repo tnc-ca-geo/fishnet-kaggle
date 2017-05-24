@@ -33,13 +33,14 @@ During the competition explicit fish detection models proofed to be more success
 $ create_fish_images --input_folder --output_folder
 ```
 
-Label files should be unaffected.
+Label files should be unaffected in this step.
 
 ### 5. Setup easy workflow for fast retraining of models
 
-- Create simple command line writer for retraining models.
+- Create simple command line wrapper for retraining models.
 - Allow for plug and play of different models
 - Goal should be to find the single best performaing model (with potential trade-offs for speed)
+- Create the workflow in a way that it lends itself to automation
 
 ### 6. Create command line interface for speedy model application
 
@@ -51,6 +52,8 @@ $ classify --image {imagename}
 
 ['ALB']
 ```
+
+- Explore potential steps on the incomming image that could improve outcome, performance (e.g. subtraction of background if applied to a single camera).
 
 ### 7. Create simple web application that provides an online interface to 6
 
