@@ -46,12 +46,12 @@ $ classify --image {imagename}
 
 - Explore potential steps on the incomming image that could improve outcome, performance (e.g. subtraction of background if applied to a single camera).
 
-### 6. Create simple web application that provides an online interface to 6
+### 6. Create simple web application that provides an online interface to 5
 
 Something like:
 
 ```
-curl -X POST fish.org/classify --data-binary=/path/to/image  
+curl -X POST codefornature.org/classifyfish --data-binary=/path/to/image  
 ```
 
 - Interface should match Camio's requirements.
