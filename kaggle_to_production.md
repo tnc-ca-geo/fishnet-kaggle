@@ -15,7 +15,7 @@ $ augment_data --input_folder {foldername} --output_folder {foldername) --label_
 ### 2. Package all model dependencies 
 
 - Create an easily reproducable route to create an environment in which a) models can be trained, b) deployed. Options would be 1. provisioning tools like (Ansible, Chef, Puppet, and the like), 2. Docker containers, or 3. prepackaged server images with all the relevant products installed (most likely a combination of 1 and 3), or readily available cloud servers.
-- We could start with Faster-RCNN which provided best during the competition (one model for performance)
+- We could start with Faster-RCNN which provided best during the competition (one model for performance), Keras, Tensorflow?
 
 ### 3. Create and train fish detection model
 
