@@ -56,11 +56,11 @@ curl -X POST fish.org/classify --data-binary=/path/to/image
 
 - Interface should match Camio's requirements.
 
-### 7. Enhanced training data
-
+### 7. Create enhanced training data
+- Concomitantly work to enhance training data after model is put into production environment 
 - Apply lessons learned from Kaggle competition to improve training/test data sets for production model training 
 - Balanced species distribution
 - More images of sensitive conservation relevant species e.g. sharks, turtles, etc.
-- Better distribution of ships
+- Better distribution of data across vessels
 - Third party data
 - Other lessons learned from competition results and forums
