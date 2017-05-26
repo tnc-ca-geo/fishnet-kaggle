@@ -4,5 +4,5 @@ Outputs from [Kaggle tuna fisheries competition](https://www.kaggle.com/c/the-na
 The competition ran from November 14, 2016 to April 12, 2017 and had 2,293 teams participate.
 
 ### Update 5/26/2017
-We are working with winners to package their code using these [criteria](../kaggle_to_production.md). If you don't care about all that and just want access to the raw code we have now please submit and issue and we'll provide a download link.
+We are working with winners to package their code using these [criteria](../master/kaggle_to_production.md). If you don't care about all that and just want access to the raw code we have now please submit and issue and we'll provide a download link.
 
