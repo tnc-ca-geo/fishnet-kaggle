@@ -11,6 +11,6 @@ A great place to start is with this [really nice writeup](https://flyyufelix.git
 ### Video Importer
 If you are a fisheries Electronic Monitoring vendor please take a look at our [video importer project](https://github.com/tnc-ca-geo/video-importer). The importer traverses directories to import video as segmented events with correct timestamps and metadata and automates the ingestion of video files so they can be labeled by advanced classifiers running either locally or in the cloud.
 
-#### Update 5/26/2017
-We are working with winners to package their solutions using these [criteria](../master/kaggle_to_production.md). If you don't care about all that and just want access to the raw code we have now please create an issue and we'll provide a download link.
+#### Update 5/31/2017
+We are working with winners to package their solutions using these [criteria](../master/kaggle_to_production.md). If you don't care about all that and just want access to the raw code there are links in each folder.  We'd like to hear how people intend to use these so please post an issue with your use cases.
 
