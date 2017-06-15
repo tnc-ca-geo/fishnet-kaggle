@@ -39,7 +39,7 @@ Label files should be unaffected in this step.
 - A command line interface allows for the implementation of the algorithm in a wide range of contexts (such as desktop apps, RESTful APIs, or code in virtually any coding language, etc.): 
 
 ```
-$ classify --image {imagename}
+$ classify {imagepath}
 
 ['ALB']
 ```
@@ -47,13 +47,13 @@ $ classify --image {imagename}
 - Would be nice if a binary could be piped to the command, which would it make either to use in a network context: 
 
 ```
-$ cat {imagepath} > classify
+$ cat {imagepath} | classify
 ```
 
 - A verbose version could provide additional information, e.g.:
 
 ```
-$ classify --image {imagename} --verbose
+$ classify {imagepath} --verbose
 
 [['ALB', .33443], ['YFT', .0001], ...]
 ```
