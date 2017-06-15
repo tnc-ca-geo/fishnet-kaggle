@@ -44,6 +44,12 @@ $ classify --image {imagename}
 ['ALB']
 ```
 
+- Would be nice if a binary could be piped to the command, which would it make either to use in a network context: 
+
+```
+$ cat {imagepath} > classify
+```
+
 - A verbose version could provide additional information, e.g.:
 
 ```
