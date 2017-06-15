@@ -36,14 +36,23 @@ Label files should be unaffected in this step.
 
 ### 5. Create command line interface for speedy model application
 
-- This form allows for implementation in a wide range of context 
-- A verbose version could provide more context information
+- A command line interface allows for the implementation of the algorithm in a wide range of contexts (such as desktop apps, RESTful APIs, or code in virtually any coding language, etc.): 
 
 ```
 $ classify --image {imagename}
 
 ['ALB']
 ```
+
+- A verbose version could provide additional information, e.g.:
+
+```
+$ classify --image {imagename} --verbose
+
+[['ALB', .33443], ['YFT', .0001], ...]
+```
+
+where the numbers refer to the likelyhood of the image being in that category.
 
 - Explore potential steps on the incomming image that could improve outcome, performance (e.g. subtraction of background if applied to a single camera).
 
