@@ -44,7 +44,7 @@ $ classify --image {imagepath}
 ['ALB']
 ```
 
-- Would be nice if a binary could be piped to the command, which would it make either to use in a network context: 
+- Would be nice if a binary could be piped to the command, which would it make easier to use in a network context: 
 
 ```
 $ cat {imagepath} | classify
