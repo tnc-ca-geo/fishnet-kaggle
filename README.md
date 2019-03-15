@@ -1,4 +1,4 @@
-## Fishface Tuna
+## Fishnet
 ###### Outputs from [Kaggle tuna fisheries competition](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring) sponsored by The Nature Conservancy and Vulcan Technologies.  
 
 This project was done in partnership with Satlink, Archipelago Marine Research, the Pacific Community, the Solomon Islands Ministry of Fisheries and Marine Resources, the Australia Fisheries Management Authority, and the governments of New Caledonia and Palau.
