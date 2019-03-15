@@ -8,9 +8,7 @@ The goal of the competition was to create algorithms that can detect and indenti
 The competition ran from November 14, 2016 to April 12, 2017 and had 2,293 teams participate. Directory prefixes correspond to final rank in Kaggle private leaderboard.
 
 ### Finalist Code and Documentation
-The model / algorithm code is available in each team's director (e.g. 1_TROLL...) as well as presentation slides that describe their approach. 
-
-A great place to start is with this [really nice writeup](https://flyyufelix.github.io/2017/04/16/kaggle-nature-conservancy.html) by Felix Yu (8th place). The [Kaggle discussion boards](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/discussion) for this project are a good resource as well.
+The model / algorithm code is available in each team's director (e.g. 1_TROLL...) as well as presentation slides that describe their approach. For more general information on approach a great place to start is with this [really nice writeup](https://flyyufelix.github.io/2017/04/16/kaggle-nature-conservancy.html) by Felix Yu (8th place). The [Kaggle discussion boards](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/discussion) for this project are a good resource as well.
 
 ### Video Importer
 If you are a fisheries Electronic Monitoring vendor please take a look at our [video importer project](https://github.com/tnc-ca-geo/video-importer). The importer traverses directories to import video as segmented events with correct timestamps and metadata and automates the ingestion of video files so they can be labeled by advanced classifiers running either locally or in the cloud.
